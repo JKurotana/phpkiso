@@ -19,7 +19,7 @@
     if ($content == '') {
       $content_result = 'お問い合わせ内容が入力されていません。';	
     } else {
-      $content_result = 'お問い合わせ内容です:' . $content;	
+      $content_result = 'お問い合わせ内容:' . $content;	
     }
  ?>						
 <!DOCTYPE html>
